@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <div className="App-container">
-        Hello 
+        Once upon a time, there was a princess who dreamed of walking. She was so desparate to achieve this dream that she bargained with a witch to  
       </div>
     </div>
   );
